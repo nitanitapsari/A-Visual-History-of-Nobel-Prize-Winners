@@ -1,0 +1,2 @@
+# A-Visual-History-of-Nobel-Prize-Winners
+The Nobel Prize is perhaps the most famous scientific award in the world. Annually awarded to scientists and scholars in the fields of chemistry, literature, physics, medicine, economics and peace. The first Nobel Prize was awarded in 1901, and at that time the prize was Eurocentric and male-focused, but today it is completely unbiased. In this project, I used my data manipulation and visualization skills to explore the patterns and trends of Nobel Prize winners for more than 100 years.
